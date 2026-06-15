@@ -16,11 +16,11 @@ with a placement year built into my degree.
 
 ## 📂 Projects
 
-### 🏎️ [F1 Data Visualiser](https://github.com/YOUR_USERNAME/FastF1DataVisualiser)
+### 🏎️ [F1 Data Visualiser](https://github.com/Kieran0403/fastf1-data-visualiser)
 A Python tool for visualising Formula 1 telemetry and session data using the
 FastF1 library. Built to develop my data analysis and Python skills.
 
-### 🔐 Password Strength Checker
+### 🔐 [Password Strength Checker](https://github.com/Kieran0403/password-strength-checker)
 A Python utility that evaluates password strength based on common security
 criteria.
 
