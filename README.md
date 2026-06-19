@@ -22,6 +22,6 @@ FastF1 library. Built to develop my data analysis and Python skills.
 
 ### 🔐 [Password Strength Checker](https://github.com/Kieran0403/password-strength-checker)
 A Python utility that evaluates password strength based on common security
-criteria.
+criteria, with breach-data checking via the HaveIBeenPwned API using a privacy-preserving k-anonymity lookup.
 
 
