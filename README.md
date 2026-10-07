@@ -1,7 +1,7 @@
-## Hi, I'm Kieran 👋
+## Hi 👋
 
 Second-year Computer Science student (BSc Hons) at the University of York,
-with a placement year.
+with a year in industry.
 
 ## 🎓 About Me
 
