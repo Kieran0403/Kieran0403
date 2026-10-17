@@ -9,10 +9,11 @@ with a year in industry.
 - 🔐 Interested in cybersecurity, software development, and data
 - 🏎️ Electronics team member at YFS
 
-## 🛠️ Technologies & tools
+## 🛠️ Technologies, tools & platforms
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ## 📂 Projects
 
